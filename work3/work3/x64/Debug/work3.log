@@ -1,0 +1,17 @@
+﻿生成启动时间为 2021/11/9 20:27:42。
+     1>项目“D:\VsWorkSpace\work3\work3\work3.vcxproj”在节点 2 上(Build 个目标)。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_work3.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_work3.cpp, GeneratedFiles\Release\moc_work3.cpp.
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I.\GeneratedFiles /I. /ID:\Qt\Qt5.9.0\5.9\msvc2013_64\include /I.\GeneratedFiles\Debug /ID:\Qt\Qt5.9.0\5.9\msvc2013_64\include\QtConcurrent /ID:\Qt\Qt5.9.0\5.9\msvc2013_64\include\QtCore /ID:\Qt\Qt5.9.0\5.9\msvc2013_64\include\QtGui /ID:\Qt\Qt5.9.0\5.9\msvc2013_64\include\QtANGLE /ID:\Qt\Qt5.9.0\5.9\msvc2013_64\include\QtWidgets /Zi /nologo /W1 /WX- /MP /Od /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_CONCURRENT_LIB /D QT_CORE_LIB /D QT_GUI_LIB /D QT_WIDGETS_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt work3.cpp
+         work3.cpp
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\VsWorkSpace\work3\x64\Debug\\work3.exe" /NOLOGO /LIBPATH:D:\Qt\Qt5.9.0\5.9\msvc2013_64\lib qtmaind.lib Qt5Concurrentd.lib Qt5Cored.lib Qt5Guid.lib Qt5Widgetsd.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\VsWorkSpace\work3\x64\Debug\work3.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\VsWorkSpace\work3\x64\Debug\work3.lib" /MACHINE:X64 x64\Debug\moc_work3.obj
+         x64\Debug\qrc_work3.obj
+         x64\Debug\main.obj
+         x64\Debug\work3.obj
+         work3.vcxproj -> D:\VsWorkSpace\work3\x64\Debug\work3.exe
+     1>已完成生成项目“D:\VsWorkSpace\work3\work3\work3.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.37
